@@ -9,8 +9,9 @@ This is a simple web scraper implemented in Python, designed to extract data fro
 
 Before using the web scraper, make sure you have the following dependencies installed:
 
-lxml
-requests
+[lxml](https://lxml.de/)
+[requests](https://docs.python-requests.org/en/latest/)
+
 You can install these dependencies using the following command:
 
 `pip install lxml requests`
